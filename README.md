@@ -1,4 +1,4 @@
-Manual Testing - Login Page
+Manual Testing - Login Page (orangehrm login Page)
 
 This repository contains the **manual testing documentation** for a sample **Login Page**. It includes detailed test scenarios, positive and negative test cases, UI and functional test cases, and defect tracking if applicable.
 
